@@ -1,0 +1,15 @@
+githhub repository link :- https://github.com/Mayank-Kainth27/bobble.AI_assignment
+
+To run the project run the following commands:
+
+1. Enter respected folder in comaand line.
+2. Then run "npm install" this will install all the dependencies that are required
+3. now run "npm start" this will launch the application on the browser.
+
+About App:
+
+After the launch of the app you will land on the Sign up page
+where you can sign up by using either google, facebook or by sign up with the 
+website.and after successful signup a alert box will apper showing where you are sign up 
+ot  not.
+
