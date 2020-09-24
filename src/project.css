@@ -1,0 +1,50 @@
+.logo {
+    border: 1px solid #eee;
+    box-shadow: 0 2px 0 #ccc;
+    margin: auto;
+    margin-top: 16px;
+    width: 70%;
+    padding: 1px;
+    text-align: center;
+}
+
+.form {
+    border: 1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    margin: auto;
+    margin-top: 16px;
+    width: 50%;
+    padding: 10px auto;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.imput{
+    margin: 5px auto;
+    width: 80%;
+    padding: 10px;
+}
+
+.signup{
+    margin: 5px auto;
+    width: 85%;
+    background-color:  rgb(96, 158, 252);
+    padding: 12px;
+} 
+
+.loginform {
+    margin: auto;
+    margin-top: 16px;
+    padding: 10px auto;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.facebtn{
+    border: 1px solid #eee;
+    box-shadow: 0 2px 0 #ccc;
+    display: inline-block;
+    background-color: white;
+    margin: 20px;
+    padding: 12px 30px;
+}
